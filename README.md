@@ -23,15 +23,6 @@
 
 <br/>  
 
-
-## Rapidfire  
-- 🔭 I’m currently working on [Superformula](https://github.com/superformula)  
-  
-
-- 🌱 I’m currently learning about web development  
-  
-
-- ❓ Ask me about anything 😅  
   
 
 <br/>  
