@@ -48,7 +48,7 @@
 
 I have had the opportunity to share my knowledge at tech conferences and events. Here are some of my recent talks:
 
-- [Flutter Accessibility](https://github.com/enzoftware/flutterconflatam_accesibility): Presented at FlutterConf Latam 2024. This talk covers how to implement accessibility in Flutter applications, discussing topics such as Semantics, testing tools, and best practices to meet WCAG standards.
+- [Flutter Accessibility](https://github.com/enzoftware/flutterconflatam_accesibility): Presented at FlutterConf Latam 2024. This talk covers how to implement accessibility in Flutter applications, discussing topics such as Semantics, testing tools, and best practices to meet WCAG standards. [Slides](https://enzoftware.github.io/flutterconflatam_accesibility/1)
 
 
 ## Github Stats  
