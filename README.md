@@ -1,84 +1,137 @@
-## Hey 👋, I'm Enzo Lizama!  
-  
+<!--
+  Profile README for @enzoftware
+  Drop this into https://github.com/enzoftware/enzoftware (profile repo)
+-->
 
-<a href="https://github.com/enzoftware" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/enzoftware" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/enzoftware" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/enzolizama" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/enzoftware" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/7966313" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-  
+<h1 align="center">Hey 👋, I'm Enzo Lizama</h1>
 
-<br/>  
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Senior+Mobile+Software+Engineer;Flutter+%7C+Android+%7C+iOS;End-to-end+architecture%2C+testing%2C+CI%2FCD;Subscriptions%2C+offline-first%2C+accessibility" alt="Typing Intro" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/enzoftware">
+    <img src="https://img.shields.io/badge/GitHub-enzoftware-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/enzoftware">
+    <img src="https://img.shields.io/badge/X-@enzoftware-000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
+  <a href="https://dev.to/enzoftware">
+    <img src="https://img.shields.io/badge/dev.to-enzoftware-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://linkedin.com/in/enzolizama">
+    <img src="https://img.shields.io/badge/LinkedIn-Enzo%20Lizama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@enzoftware">
+    <img src="https://img.shields.io/badge/Medium-@enzoftware-292929?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
 
-## Languages and Tools  
-<div align="center">  
-<!-- <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>   -->
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="25" /></a>  
-<!-- <a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="25" /></a> -->
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="25" /></a>  
+---
 
-</div>  
+### 👋 About me
+- Senior **mobile software engineer** based in **Lima, Peru**.
+- 6+ years shipping consumer & enterprise apps across **Flutter**, **Android (Kotlin)** and **iOS (Swift)**.
+- I own the **whole lifecycle**: discovery → architecture → implementation → testing → CI/CD → release & observability.
+- Comfortable with payments/subscriptions, offline-first flows, accessibility, and performance.
+- **Currently hands‑on** with **Supabase**, **Rust**, and **Codemagic**.
 
-<br/>  
+### 🧰 Tech I use
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,apple,graphql,firebase,supabase,git,githubactions,typescript,nodejs,prisma,vue&perline=8" alt="Skills" />
+  </a>
+</p>
 
-## 🎤 Talks
+<p align="center">
+  <!-- Codemagic via Simple Icons (not yet on skillicons) -->
+  <img height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/codemagic.svg" alt="Codemagic" title="Codemagic" />
+</p>
 
-I have had the opportunity to share my knowledge at tech conferences and events. Here are some of my recent talks:
+### 🎤 Talks
+- **Flutter Accessibility** — FlutterConf LATAM 2024. Semantics, testing tools, and WCAG-aligned practices. \
+  Slides & demo: https://github.com/enzoftware/flutterconflatam_accesibility
 
-- [Flutter Accessibility](https://github.com/enzoftware/flutterconflatam_accesibility): Presented at FlutterConf Latam 2024. This talk covers how to implement accessibility in Flutter applications, discussing topics such as Semantics, testing tools, and best practices to meet WCAG standards. [Slides](https://enzoftware.github.io/flutterconflatam_accesibility/1)
+---
 
+### 📊 GitHub at a glance
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzoftware&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="165" src="https://streak-stats.demolab.com?user=enzoftware&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=enzoftware&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoftware&layout=compact&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
-<br/>  
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=enzoftware&custom_title=Activity&hide_border=true&bg_color=ffffff00&color=777&line=2f80ed&point=2f80ed&area=true" alt="Activity Graph" />
+  </a>
+</p>
 
-<br/>  
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=enzoftware&theme=onedark&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies" />
+  </a>
+</p>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=enzoftware&&style=flat-square" align="center" />
-</div>  
-  
+---
 
-<br/>  
+### ☕ Support my work
+<p align="center">
+  <a href="https://paypal.me/enzolizama"><img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="Donate via PayPal" /></a>
+  &nbsp;
+  <a href="https://www.buymeacoffee.com/4n19Myr"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-orange?style=flat-square&logo=buymeacoffee&logoColor=white" alt="Buy me a coffee" /></a>
+</p>
 
-<div align="center">
-            <a href="https://paypal.me/enzolizama" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/4n19Myr" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=enzoftware&style=flat-square" alt="Profile views" />
+</p>
 
-----
+<!--
+Optional: Contribution Snake (requires a workflow to generate /assets/snake.svg)
+Add this workflow in .github/workflows/snake.yml:
 
+name: Generate contribution grid snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: enzoftware
+          outputs: |
+            dist/snake.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+Then uncomment the image below:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/enzoftware/enzoftware/output/snake.svg" alt="Contribution Snake" />
+</p>
+-->
+
+<!--
+Optional: WakaTime weekly metrics (requires API key and workflow)
+Insert this placeholder where you want the chart to appear:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+And add a workflow from anmol098/waka-readme-stats or athul/waka-readme.
+-->
