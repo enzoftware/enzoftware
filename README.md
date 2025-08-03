@@ -129,9 +129,5 @@ Then uncomment the image below:
 
 <!--
 Optional: WakaTime weekly metrics (requires API key and workflow)
-Insert this placeholder where you want the chart to appear:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-And add a workflow from anmol098/waka-readme-stats or athul/waka-readme.
+Insert this placeholder where you want the chart to appear: And add a workflow from anmol098/waka-readme-stats or athul/waka-readme.
 -->
