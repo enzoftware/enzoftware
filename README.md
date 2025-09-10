@@ -45,11 +45,6 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- Codemagic via Simple Icons (not yet on skillicons) -->
-  <img height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/codemagic.svg" alt="Codemagic" title="Codemagic" />
-</p>
-
 ### 🎤 Talks
 - **Flutter Accessibility** — FlutterConf LATAM 2024. Semantics, testing tools, and WCAG-aligned practices. \
   Slides & demo: https://github.com/enzoftware/flutterconflatam_accesibility
