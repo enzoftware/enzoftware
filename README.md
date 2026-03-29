@@ -1,19 +1,18 @@
 <!--
-  Profile README for @enzoftware
-  Drop this into https://github.com/enzoftware/enzoftware (profile repo)
+  Elevated Profile README for @enzoftware
+  Focus: Architectural Impact, Thought Leadership, & Engineering Velocity
 -->
 
-<h1 align="center">Hey 👋, I'm Enzo Lizama</h1>
-
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Staff+Mobile+Software+Engineer;Flutter+%7C+Android+%7C+iOS;Scalable+Architectures+%26+Design+Systems;Accessibility+%7C+Performance+%7C+CI/CD" alt="Typing Intro" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=220&section=header&text=Enzo%20Lizama&fontSize=75&animation=fadeIn&fontAlignY=35&desc=Staff%20Mobile%20Engineer%20%7C%20Architect%20%7C%20Speaker&descSize=25&descAlignY=55" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/enzoftware">
-    <img src="https://img.shields.io/badge/GitHub-enzoftware-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://linkedin.com/in/enzolizama">
+    <img src="https://img.shields.io/badge/LinkedIn-Enzo%20Lizama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@enzoftware">
+    <img src="https://img.shields.io/badge/Medium-@enzoftware-292929?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://x.com/enzoftware">
     <img src="https://img.shields.io/badge/X-@enzoftware-000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
@@ -21,80 +20,74 @@
   <a href="https://dev.to/enzoftware">
     <img src="https://img.shields.io/badge/dev.to-enzoftware-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
-  <a href="https://linkedin.com/in/enzolizama">
-    <img src="https://img.shields.io/badge/LinkedIn-Enzo%20Lizama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@enzoftware">
-    <img src="https://img.shields.io/badge/Medium-@enzoftware-292929?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
 </p>
 
 ---
 
-### 🏛️ Architecture & Impact
-- Senior **mobile software engineer** specializing in **scalable ecosystems** and **modular architectures**.
-- 6+ years building high-performance apps across **Flutter**, **Android (Kotlin)**, and **iOS (Swift)**.
-- **End-to-end Ownership**: From architectural discovery to CI/CD automation and observability.
-- **Core Focus**: High-conversion subscriptions, offline-first sync, accessibility (WCAG), and performance optimization.
-- **Currently exploring**: Rust, Supabase, and advanced CI/CD with Codemagic.
+### 🏛️ Engineering Vision & Architecture
+I specialize in building **high-scale mobile ecosystems** and **resilient architectures**. With over 6 years of experience, I lead teams in transforming complex business requirements into elegant, maintainable technical solutions across **Flutter**, **iOS**, and **Android**.
 
-### ✍️ Latest from Medium
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🔭 **Current Focus**: Modularization strategies, AI-enhanced developer workflows, and cross-platform design systems.
+- 🏗️ **Core Competencies**: End-to-end lifecycle ownership, subscription-based economies, and accessibility-first engineering.
+- 🧪 **Hands-on with**: Rust, Supabase, and advanced CI/CD orchestration.
+
+---
 
 ### 🧰 Strategic Tech Stack
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <b>Mobile Engineering</b><br><br>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,apple&perline=3" />
+      <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,apple,androidstudio&perline=3" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <b>Backend & Data</b><br><br>
       <img src="https://skillicons.dev/icons?i=supabase,firebase,graphql,prisma,typescript,nodejs&perline=3" />
     </td>
-    <td align="center" width="33%">
-      <b>Tools & Infra</b><br><br>
-      <img src="https://skillicons.dev/icons?i=git,githubactions,codemagic,docker,rust,supabase&perline=3" />
+    <td align="center" width="33%" valign="top">
+      <b>Infra & AI Tools</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,githubactions,docker,rust,supabase,claude&perline=3" />
     </td>
   </tr>
 </table>
 
-### 🎙️ Selected Work & Talks
-<p align="center">
-  <a href="https://github.com/enzoftware/flutterconflatam_accesibility">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enzoftware&repo=flutterconflatam_accesibility&theme=tokyonight&show_owner=true" />
-  </a>
-</p>
-- **Flutter Accessibility** — FlutterConf LATAM 2024. Focused on Semantics, testing tools, and WCAG-aligned practices.
+---
+
+### ✍️ Latest Technical Deep Dives
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+> *Automatically updated from [Medium](https://medium.com/@enzoftware)*
 
 ---
 
-### 📊 Engineering Metrics
+### 📊 Engineering Velocity & Metrics
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzoftware&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="165" src="https://streak-stats.demolab.com?user=enzoftware&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enzoftware&theme=tokyonight&hide_border=true&area=true&custom_title=Engineering%20Activity" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoftware&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzoftware&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoftware&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enzoftware&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/enzoftware/enzoftware/output/snake.svg" alt="Contribution Snake" />
 </p>
 
+---
+
+### 🎙️ Selected Work & Public Speaking
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=enzoftware&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies" />
+  <a href="https://github.com/enzoftware/flutterconflatam_accesibility">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enzoftware&repo=flutterconflatam_accesibility&theme=tokyonight&show_owner=true" />
   </a>
 </p>
+
+- **Flutter Accessibility** — *FlutterConf LATAM 2024*. A deep dive into Semantics, automation, and WCAG compliance.
 
 ---
 
@@ -106,5 +99,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enzoftware&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=enzoftware&style=flat-square&color=00d2ff&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
