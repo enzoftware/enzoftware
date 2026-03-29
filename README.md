@@ -55,7 +55,11 @@ I specialize in building **high-scale mobile ecosystems** and **resilient archit
 
 ### ✍️ Latest Technical Deep Dives
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Flutter Heatmaps with Microsoft Clarity SDK](https://medium.com/@enzoftware/flutter-heatmaps-with-microsoft-clarity-sdk-0fe651e14898?source=rss-8c2448874324------2)
+- [Isolating Flutter Widgets: Getting Started with Monarch](https://medium.com/@enzoftware/isolating-flutter-widgets-getting-started-with-monarch-b3d24d56921f?source=rss-8c2448874324------2)
+- [Attending FlutterConf Latam 2023 : My Insights and Takeaways](https://medium.com/@enzoftware/attending-flutterconf-latam-2023-my-insights-and-takeaways-c8943fe5d57c?source=rss-8c2448874324------2)
+- [Flutter accessibility: Getting started](https://medium.com/code-well/flutter-accessibility-getting-started-52286746314e?source=rss-8c2448874324------2)
+- [Let’s play with the Android accelerometer + Kotlin ❤️](https://medium.com/@enzoftware/lets-play-with-the-android-accelerometer-kotlin-%EF%B8%8F-ed92981b0a6c?source=rss-8c2448874324------2)<!-- BLOG-POST-LIST:END -->
 > *Automatically updated from [Medium](https://medium.com/@enzoftware)*
 
 ---
