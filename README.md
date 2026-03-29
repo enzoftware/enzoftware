@@ -1,19 +1,18 @@
 <!--
-  Profile README for @enzoftware
-  Drop this into https://github.com/enzoftware/enzoftware (profile repo)
+  Elevated Profile README for @enzoftware
+  Focus: Architectural Impact, Thought Leadership, & Engineering Velocity
 -->
 
-<h1 align="center">Hey 👋, I'm Enzo Lizama</h1>
-
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Senior+Mobile+Software+Engineer;Flutter+%7C+Android+%7C+iOS;End-to-end+architecture%2C+testing%2C+CI%2FCD;Subscriptions%2C+offline-first%2C+accessibility" alt="Typing Intro" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=220&section=header&text=Enzo%20Lizama&fontSize=75&animation=fadeIn&fontAlignY=35&desc=Staff%20Mobile%20Engineer%20%7C%20Architect%20%7C%20Speaker&descSize=25&descAlignY=55" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/enzoftware">
-    <img src="https://img.shields.io/badge/GitHub-enzoftware-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://linkedin.com/in/enzolizama">
+    <img src="https://img.shields.io/badge/LinkedIn-Enzo%20Lizama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@enzoftware">
+    <img src="https://img.shields.io/badge/Medium-@enzoftware-292929?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://x.com/enzoftware">
     <img src="https://img.shields.io/badge/X-@enzoftware-000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
@@ -21,67 +20,78 @@
   <a href="https://dev.to/enzoftware">
     <img src="https://img.shields.io/badge/dev.to-enzoftware-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
-  <a href="https://linkedin.com/in/enzolizama">
-    <img src="https://img.shields.io/badge/LinkedIn-Enzo%20Lizama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@enzoftware">
-    <img src="https://img.shields.io/badge/Medium-@enzoftware-292929?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
 </p>
 
 ---
 
-### 👋 About me
-- Senior **mobile software engineer** based in **Lima, Peru**.
-- 6+ years shipping consumer & enterprise apps across **Flutter**, **Android (Kotlin)** and **iOS (Swift)**.
-- I own the **whole lifecycle**: discovery → architecture → implementation → testing → CI/CD → release & observability.
-- Comfortable with payments/subscriptions, offline-first flows, accessibility, and performance.
-- **Currently hands‑on** with **Supabase**, **Rust**, and **Codemagic**.
+### 🏛️ Engineering Vision & Architecture
+I specialize in building **high-scale mobile ecosystems** and **resilient architectures**. With over 6 years of experience, I lead teams in transforming complex business requirements into elegant, maintainable technical solutions across **Flutter**, **iOS**, and **Android**.
 
-### 🧰 Tech I use
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,apple,graphql,firebase,supabase,git,githubactions,typescript,nodejs,prisma,vue,react&perline=8" alt="Skills" />
-  </a>
-</p>
-
-### 🎤 Talks
-- **Flutter Accessibility** — FlutterConf LATAM 2024. Semantics, testing tools, and WCAG-aligned practices. \
-  Slides & demo: https://github.com/enzoftware/flutterconflatam_accesibility
+- 🔭 **Current Focus**: Modularization strategies, AI-enhanced developer workflows, and cross-platform design systems.
+- 🏗️ **Core Competencies**: End-to-end lifecycle ownership, subscription-based economies, and accessibility-first engineering.
+- 🧪 **Hands-on with**: Rust, Supabase, and advanced CI/CD orchestration.
 
 ---
 
-### 📊 GitHub at a glance
+### 🧰 Strategic Tech Stack
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <b>Mobile Engineering</b><br><br>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,apple,androidstudio&perline=3" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>Backend & Data</b><br><br>
+      <img src="https://skillicons.dev/icons?i=supabase,firebase,graphql,prisma,typescript,nodejs&perline=3" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>Infra & AI Tools</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,githubactions,docker,rust,supabase,claude&perline=3" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### ✍️ Latest Technical Deep Dives
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+> *Automatically updated from [Medium](https://medium.com/@enzoftware)*
+
+---
+
+### 📊 Engineering Velocity & Metrics
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzoftware&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="165" src="https://streak-stats.demolab.com?user=enzoftware&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enzoftware&theme=tokyonight&hide_border=true&area=true&custom_title=Engineering%20Activity" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoftware&layout=compact&hide_border=true" alt="Top Languages" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzoftware&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoftware&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=enzoftware&custom_title=Activity&hide_border=true&bg_color=ffffff00&color=777&line=2f80ed&point=2f80ed&area=true" alt="Activity Graph" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=enzoftware&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=enzoftware&theme=onedark&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies" />
-  </a>
+  <img src="https://raw.githubusercontent.com/enzoftware/enzoftware/output/snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
-### ☕ Support my work
+### 🎙️ Selected Work & Public Speaking
+<p align="center">
+  <a href="https://github.com/enzoftware/flutterconflatam_accesibility">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enzoftware&repo=flutterconflatam_accesibility&theme=tokyonight&show_owner=true" />
+  </a>
+</p>
+
+- **Flutter Accessibility** — *FlutterConf LATAM 2024*. A deep dive into Semantics, automation, and WCAG compliance.
+
+---
+
+### ☕ Support & Connection
 <p align="center">
   <a href="https://paypal.me/enzolizama"><img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="Donate via PayPal" /></a>
   &nbsp;
@@ -89,40 +99,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enzoftware&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=enzoftware&style=flat-square&color=00d2ff&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
-
-<!--
-Optional: Contribution Snake (requires a workflow to generate /assets/snake.svg)
-Add this workflow in .github/workflows/snake.yml:
-
-name: Generate contribution grid snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: enzoftware
-          outputs: |
-            dist/snake.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-Then uncomment the image below:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/enzoftware/enzoftware/output/snake.svg" alt="Contribution Snake" />
-</p>
--->
-
-<!--
-Optional: WakaTime weekly metrics (requires API key and workflow)
-Insert this placeholder where you want the chart to appear: And add a workflow from anmol098/waka-readme-stats or athul/waka-readme.
--->
