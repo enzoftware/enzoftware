@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=220&section=header&text=Enzo%20Lizama&fontSize=75&animation=fadeIn&fontAlignY=35&desc=Staff%20Mobile%20Engineer%20%7C%20Architect%20%7C%20Speaker&descSize=25&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=220&section=header&text=Enzo%20Lizama&fontSize=75&animation=fadeIn&fontAlignY=35&desc=Senior%20Mobile%20Engineer%20%7C%20Architect%20%7C%20Speaker&descSize=25&descAlignY=55" />
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ I specialize in building **high-scale mobile ecosystems** and **resilient archit
     </td>
     <td align="center" width="33%" valign="top">
       <b>Backend & Data</b><br><br>
-      <img src="https://skillicons.dev/icons?i=supabase,firebase,graphql,prisma,typescript,nodejs&perline=3" />
+      <img src="https://skillicons.dev/icons?i=supabase,firebase,graphql,prisma,spring,nodejs&perline=3" />
     </td>
     <td align="center" width="33%" valign="top">
       <b>Infra & AI Tools</b><br><br>
