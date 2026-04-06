@@ -64,13 +64,6 @@ I specialize in building **high-scale mobile ecosystems** and **resilient archit
 
 ---
 
-### 📊 Engineering Velocity & Metrics
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enzoftware&theme=tokyonight&hide_border=true&area=true&custom_title=Engineering%20Activity" width="100%" />
-</p>
-
----
-
 ### 🎙️ Selected Work & Public Speaking
 
 - **Flutter Accessibility** — *FlutterConf LATAM 2024*. A deep dive into Semantics, automation, and WCAG compliance.
