@@ -69,27 +69,9 @@ I specialize in building **high-scale mobile ecosystems** and **resilient archit
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=enzoftware&theme=tokyonight&hide_border=true&area=true&custom_title=Engineering%20Activity" width="100%" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzoftware&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoftware&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enzoftware&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/enzoftware/enzoftware/output/snake.svg" alt="Contribution Snake" />
-</p>
-
 ---
 
 ### 🎙️ Selected Work & Public Speaking
-<p align="center">
-  <a href="https://github.com/enzoftware/flutterconflatam_accesibility">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enzoftware&repo=flutterconflatam_accesibility&theme=tokyonight&show_owner=true" />
-  </a>
-</p>
 
 - **Flutter Accessibility** — *FlutterConf LATAM 2024*. A deep dive into Semantics, automation, and WCAG compliance.
 
