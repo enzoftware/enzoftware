@@ -46,7 +46,7 @@ I specialize in building **high-scale mobile ecosystems** and **resilient archit
     </td>
     <td align="center" width="33%" valign="top">
       <b>Infra & AI Tools</b><br><br>
-      <img src="https://skillicons.dev/icons?i=git,githubactions,docker,rust,supabase,claude&perline=3" />
+      <img src="https://skillicons.dev/icons?i=git,githubactions,docker,rust&perline=3" />
     </td>
   </tr>
 </table>
