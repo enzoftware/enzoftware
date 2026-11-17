@@ -8,7 +8,7 @@
 
 ### Stack
 
-<p align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,apple,androidstudio,react,ts,js,nodejs,py,java,go,rust,supabase,firebase,graphql,prisma,postgres,git,githubactions,docker,bash&perline=12" width="100%" alt="Tech stack" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,apple,androidstudio,react,ts,js,nodejs,py,fastapi,go,rust,supabase,firebase,graphql,prisma,postgres,git,githubactions,docker,bash,opencv&perline=12" width="100%" alt="Tech stack" /><br><img src="assets/ai-icons.svg" width="100%" alt="AI tools: Claude, Gemini, Hugging Face, LangChain, Ollama" /></p>
 
 <p align="center">
 <a href="https://github.com/enzoftware/flutterconflatam_accesibility"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-talk-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/tile-talk-light.svg"><img alt="Latest talk: Accessibility in Flutter, FlutterConf LATAM 2024" src="assets/tile-talk-dark.svg" width="50%"></picture></a><a href="https://medium.com/@enzoftware/flutter-heatmaps-with-microsoft-clarity-sdk-0fe651e14898"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-article-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/tile-article-light.svg"><img alt="Latest article: Flutter Heatmaps with Microsoft Clarity SDK" src="assets/tile-article-dark.svg" width="50%"></picture></a>
